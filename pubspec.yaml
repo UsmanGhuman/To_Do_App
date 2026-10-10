@@ -1,0 +1,46 @@
+name: payment_app
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.1
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  get: ^4.7.3
+  firebase_core: ^4.7.0
+  firebase_auth: ^6.4.0
+  fluttertoast: ^9.0.0
+  cloud_firestore: ^6.3.0
+  persistent_bottom_nav_bar: ^6.2.1
+  custom_navigation_bar: ^0.8.2
+  firebase_storage: ^13.3.0
+  path_provider: ^2.1.5
+  hive_flutter: ^1.1.0
+  hive: ^2.2.3
+  carousel_slider: ^5.1.2
+  shared_preferences: ^2.5.5
+
+dev_dependencies:
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.13
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/
+

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650027122154",
+    "project_id": "payment-app-58e0b",
+    "storage_bucket": "payment-app-58e0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650027122154:android:78e964ebb2a40351490693",
+        "android_client_info": {
+          "package_name": "com.eclix.com.payment_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0YWFfwOer6Bd4LELcuvmmnhTRMy18Kes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
